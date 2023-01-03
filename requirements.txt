@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+black
+boto3
+six
+python-dotenv
